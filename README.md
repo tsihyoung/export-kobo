@@ -96,6 +96,9 @@ In this case the database file is called ``Kobo.sqlite``
 and is located in the directory
 ``C:\Users\[your user name]\AppData\Local\Kobo\Kobo Desktop Edition\``.
 
+NOTE (2019-03-29): The database file named ``Kobo.sqlite`` for MacOS is located in the directory
+``/Users/$USER/Library/Application\ Support/Kobo/Kobo\ Desktop\ Edition``.
+
 
 ## Troubleshooting
 
